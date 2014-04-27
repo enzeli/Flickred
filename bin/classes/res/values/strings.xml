@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flickred</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Find photos on Flickr</string>
+	<string name="contact_hint">Select a contact from below</string>
+	<string name="button1text">Select contact</string>
+	<string name="button2text">Search Flickr</string>
+	<string name="picdescription">Pic Data from Flickr</string>
+    
+</resources>
